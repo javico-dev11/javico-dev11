@@ -16,7 +16,7 @@ Soy un desarrollador con experiencia en diseño y desarrollo de software, enfoca
 ## 🛠️ Tecnologías y Herramientas
 
 ### 💻 Lenguajes de Programación
-![CSharp](https://img.shields.io/badge/-CSharp-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![CSharp](https://img.shields.io/badge/-CSharp-3178C6?style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
